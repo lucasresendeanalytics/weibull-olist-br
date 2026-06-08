@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Local environments
+.env
+.venv/
+venv/
+
+# Notebook and OS artifacts
+Thumbs.db
+Desktop.ini
